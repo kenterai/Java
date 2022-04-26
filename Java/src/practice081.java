@@ -1,3 +1,4 @@
+import java.util.Random;
 
 public class practice081 {
 	String name;
